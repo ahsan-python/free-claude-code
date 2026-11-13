@@ -54,4 +54,5 @@ def build() -> None:
 
 
 if __name__ == "__main__":
+    print("--Macos-Launcher 2026")
     build()
